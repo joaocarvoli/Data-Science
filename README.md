@@ -1,2 +1,6 @@
-### Data Science Carrer by Data Camp :rocket:
-I will put the projects that I'll made in this program.
+### Data Camp platform :rocket:
+Projects from careers and courses
+
+<p align="left">
+  <img src="https://github.com/joaocarvoli/dataCamp-projects/blob/main/datacamp-logo.png" width="500" title="Data Camp">
+</p>
